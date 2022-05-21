@@ -1,5 +1,14 @@
 # Git_PeerReview
 
-Hello
-This is a readme file
-Its just contains details of this project
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
+#Hello
+#This is a readme file
+#Its just contains details of this project
